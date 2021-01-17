@@ -1,4 +1,6 @@
 # AngularRouterSample
+1. I HAVE USED URL FROM (app.component.ts) to filter the users based on locations. Since i had no access of GoogleAPI's i was not able to gather Lat, Long co-ordinates so i have done this way. I COULD'VE HARDCODED LAT AND LONG IN DATABASE AND FILTERED THEM OUT IN THE STORED PROCEDURE BUT I CHOSE TO USE FILTER ON URL.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.7.
 
