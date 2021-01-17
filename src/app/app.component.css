@@ -1,0 +1,17 @@
+table {
+   width: 100%;
+}
+
+table {
+  border-spacing: 15px;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+}
+
+
+table {
+  background-color: #f1f1c1;
+}
